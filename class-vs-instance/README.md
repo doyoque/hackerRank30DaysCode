@@ -6,11 +6,12 @@ In this challenge, we're going to learn about the difference between a class and
 
 Write a Person class with an instance variable, _**age**_, and a constructor that takes an integer, _**initialAge**_, as a parameter. The constructor must assign _**initialAge**_  to _**age**_ after confirming the argument passed as _**initialAge**_ is not negative; if a negative argument is passed as _**initialAge**_, the constructor should set _**age**_ to _**0**_ and print `Age is not valid, setting age to 0.`.
 In addition, you must write the following instance methods:
+
 1. yearPasses() should increase the _**age**_ instance variable by **1**.
 2. amIOld() should perform the following conditional actions:
-  * If _**age**_ &lt; **13** print `you are young.`.
-  * If _**age**_ &ge; **13** and _**age**_ &le; **8** print `you are a teenager.`.
-  * otherwise print `you are old.`.
+    * If _**age**_ &lt; **13** print `you are young.`.
+    * If _**age**_ &ge; **13** and _**age**_ &le; **8** print `you are a teenager.`.
+    * otherwise print `you are old.`.
 
 To help you learn by example and complete this challenge, much of the code is provided for you, but you'll be writing everything in the future. The code that creates each instance of your Person class is in the main method. Don't worry if you don't understand it all quite yet!
 
