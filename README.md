@@ -8,4 +8,4 @@ Don't use this as the solution of the answer. I know there's alot of solution ou
 
 ## So What Is This?
 
-If I use this for learning purpose, you have toos.
+If I use this for learning purpose, you have too.
