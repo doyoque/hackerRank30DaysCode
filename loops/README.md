@@ -21,7 +21,7 @@ Print **10** lines of output; each line _**i**_ (where **1** &le; _**i**_ &le; *
 
 ## Sample Input
 
-``bash
+```bash
 2
 ```
 
